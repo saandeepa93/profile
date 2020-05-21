@@ -1,0 +1,14 @@
+@import url(./assets/fonts/fonts.css);
+
+html {
+  background-color: #0a192f;
+  max-width: 920px;
+  margin: auto;
+  color: white;
+  font-family: Roboto Mono;
+  font-size: 10pt;
+}
+
+html, body {
+  height: 100%;
+}

@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url('./roboto_mono/RobotoMono-Regular.ttf');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url('./roboto_mono/RobotoMono-RegularItalic.ttf');
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url('./roboto_mono/RobotoMono-Bold.ttf');
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Roboto Mono';
+  src: url('./roboto_mono/RobotoMono-BoldItalic.ttf');
+  font-style: italic;
+  font-weight: bold;
+}
