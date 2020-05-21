@@ -1,10 +1,15 @@
 # Profile
 
-This profile document is written in Javascript (with React).
+This is a profile app written in JavaScript with React.
 
-### Customisation
+[Profile](https://saandeepa93.github.io/profile)
 
-* Instal `npm` packages: `npm i`
-* Start with the script `npm start`
-* Build: `npm run build`
-* Publish: `npm run publish`
+### Commands
+
+| Action | Command |
+| ------ | ------- |
+| Instal | `npm i` |
+| Start  | `npm start` |
+| Build  | `npm run build` |
+| Deploy | `npm run deploy` |
+

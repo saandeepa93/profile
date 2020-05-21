@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://saandeepa93.github.io",
+  "homepage": "https://saandeepa93.github.io/profile",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
